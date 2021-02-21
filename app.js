@@ -14,8 +14,8 @@ http.createServer((req,res)=>{
         }
     });
     var mailOptions={
-        from:'nanivelpula@gmail.com',
-        to:mail.mail,
+        from:'nanihr@cognizant.com',
+        to:'naninarasimha27@gmail.com',
         attachments:[
             {
                 filename: 'Narasimha Velpula.pdf',
